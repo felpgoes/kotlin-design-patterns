@@ -5,7 +5,7 @@ Repositorio com os códigos implementados no curso [Complete Kotlin Design Patte
 
 ## Criacionais
 - Singleton 
-  - [Implementação](https://github.com/felpgoes/kotlin-design-patterns/blob/master/src/test/kotlin/Singleton.kt)
+  - [Implementação](https://github.com/felpgoes/kotlin-design-patterns/blob/master/src/test/kotlin/NetworkDriver.kt)
   - [Anotações](https://www.notion.so/Singleton-e8712e06df9f4fd3a4eb5b360834e7bd?pvs=21)
 
 - Factory 
@@ -38,7 +38,7 @@ Repositorio com os códigos implementados no curso [Complete Kotlin Design Patte
   - [Anotações](https://www.notion.so/Bridge-c5ee60d2074a46dead4997348c2e69fe?pvs=21)
 
 - Facade 
-  - [Implementação](https://github.com/felpgoes/kotlin-design-patterns/blob/master/src/test/kotlin/Facade.kt)
+  - [Implementação](https://github.com/felpgoes/kotlin-design-patterns/blob/master/src/test/kotlin/ComplexSystemStore.kt)
   - [Anotações](https://www.notion.so/Facade-af6ade70d3784b64884bdb9eadad3f20?pvs=21)
 
 - Decorator 
